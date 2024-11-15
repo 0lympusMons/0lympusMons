@@ -1,4 +1,5 @@
-# :wave: Hey there! My name is Dodge Ynoh Angelo Madula
+# :wave: Hey there! My name is Dodge Ynoh Angelo Dungog Madula 
+_My name’s a bit of a tongue twister, but don’t worry—**I answer to just Dodge too!**_
 
 I’m a web developer in Alberta, Canada, driven by a love for crafting smooth, user-friendly experiences. I aim to strike the perfect balance between design and functionality, bringing ideas to life on the web.
 
