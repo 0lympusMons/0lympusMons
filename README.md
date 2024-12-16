@@ -27,7 +27,6 @@ I’m a web developer in Alberta, Canada, driven by a love for crafting smooth, 
 
 ## 🌱 I lack these, therefore I plan to learn:
 - Typescript
-- Node
-- MongoDB
+- C#, .NET, ASP.NET
 - The list goes on... There is more to learn, afterall :innocent:
 
